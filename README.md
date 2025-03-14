@@ -38,9 +38,10 @@ Legislators introduce thousands of draft bills each year, but only a fraction be
 
 ## Model Performance
 
-- **Accuracy**: 71% - 75%
-- **AUC Scores**: 0.78 - 0.81 (SMOTE-balanced model)
-- **Best Threshold**: 0.42 probability cutoff
+SMOTE-Balanced Model:
+
+AUC Scores: 0.78 - 0.81
+Overall Accuracy: 71% - 75%
 
 ## Key Insights
 
