@@ -29,6 +29,11 @@ Legislators introduce thousands of draft bills each year, but only a fraction be
 - LegiScan dataset
 - University of North Carolina (UNC) compilation
 
+**Important**: The main dataset file `data/hodl data final.csv` is required to run the analysis. This file is stored using Git LFS due to its size. When using Google Colab, make sure to:
+1. Download this file from the repository
+2. Upload it to your Colab runtime in the specified location
+3. Verify the data path in the notebook matches the uploaded location
+
 ### Key Features
 - Bill metadata analysis
 - Sponsorship patterns
