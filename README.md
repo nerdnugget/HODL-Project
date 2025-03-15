@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This deep learning project aims to predict the likelihood of legislative bill passage in North Carolina using advanced machine learning techniques. Developed as part of a 15.773 course project, the model leverages comprehensive legislative data to provide insights into bill success probabilities.
+This deep learning project aims to predict the likelihood of legislative bill passage in North Carolina using advanced machine learning techniques. Developed as part of a 15.773 course project (due March 16, 2025), the model leverages comprehensive legislative data to provide insights into bill success probabilities.
 
 ## Project Notebook
 
